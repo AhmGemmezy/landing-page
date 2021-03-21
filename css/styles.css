@@ -70,8 +70,6 @@ section {
     text-align: right;
     background-color: darkblue;
     opacity: 0.8;
-    align-content: flex-start;
-
 }
 
 .navbar__menu {

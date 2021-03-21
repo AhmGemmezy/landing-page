@@ -67,11 +67,9 @@ section {
 .navbar__menu ul {
     padding-left: 0;
     margin: 0;
-    text-align: right;
+    text-align: center;
     background-color: darkblue;
     opacity: 0.8;
-    align-content: flex-start;
-
 }
 
 .navbar__menu {
@@ -83,7 +81,8 @@ section {
 }
 
 .navbar__menu li {
-    display: inline-block;
+    display: flex;
+    justify-content:center;
 }
 
 .navbar__menu .menu__link {

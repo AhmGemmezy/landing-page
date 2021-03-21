@@ -82,9 +82,7 @@ section {
 }
 
 .navbar__menu li {
-    display: flex;
-    align-content: center;
-    justify-content: center;
+    display:inline;
 }
 
 .navbar__menu .menu__link {
